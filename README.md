@@ -1,6 +1,6 @@
-# TV Remote legal pages
+# TV Remote Univ Legal & Support Pages
 
-Public GitHub Pages site for **TV Remote - Universal Control**.
+Public GitHub Pages site for **TV Remote Univ**.
 
 | Page | URL |
 | --- | --- |
